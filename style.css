@@ -11,13 +11,15 @@ body {
 
 /* start header */
 header{
-    padding: 20px 0px 60px;
+    padding: 15px 0px;
+    border-bottom: 1px solid gainsboro;
 }
 
 .container_1{
     width: 90%;
        margin: 0px auto;
     overflow: hidden;
+    
 }
 
 .logo{
@@ -61,7 +63,7 @@ header{
 
 /* start banner */
 .banner{
-    padding-bottom: 60px;
+    padding: 60px 0px;
 }
 
 .container_2{
