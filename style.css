@@ -16,8 +16,7 @@ header{
 
 .container_1{
     width: 90%;
-    /* border: 1px solid red; */
-    margin: 0px auto;
+       margin: 0px auto;
     overflow: hidden;
 }
 
@@ -28,14 +27,12 @@ header{
 
  .h_img a img{
     width: 100%;
-    /* border: 1px solid red; */
     margin-top: 3px;
  }
 
  .meno{
     width: 70%;
     float: right;
-    /* border: 1px solid greenyellow;   */
  }
 
  .meno ul{
@@ -70,7 +67,6 @@ header{
 .container_2{
     width: 50%;
     margin: 0px auto;
-    /* border: 1px solid red; */
     text-align: center;
     overflow: hidden;
 }
@@ -97,7 +93,6 @@ header{
 
  .b_img img{
     width: 72%;
-    /* border: 1px solid rgb(235, 23, 23);  */
 }
 /* end banner */
 
@@ -112,7 +107,6 @@ header{
     width: 40%;
     text-align: end;
     float: left;
-    /* border: 1px solid red; */
 }
 
 .a_h2 {
@@ -126,7 +120,6 @@ header{
     letter-spacing: 0.2px;
 }
 .col_2 {
-    /* border: 1px solid red; */
     width: 57%;
     float: right;
     text-align: start;
@@ -148,13 +141,11 @@ header{
 .container-4 {
     width:90%;
     margin: 0px auto;
-    /* border: 1px solid red; */
     overflow: hidden;
 }
 
 .colomn{
     width: 25%;
-    /* border: 1px solid red; */
     padding: 50px 51px 60px;
     float: left;
     margin-right: 60px;
